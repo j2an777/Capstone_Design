@@ -26,7 +26,7 @@
 ### 📱 모바일
 - ObjectDetection과 PoseEstimation을 이용하여 사람을 1 기준으로 비율을 수치로 제공합니다.
 
-![KakaoTalk_20240723_114047878](https://github.com/user-attachments/assets/1fe3925a-fd88-4c99-b66e-016b9be63b69)
+![KakaoTalk_20240723_114047878](https://github.com/user-attachments/assets/70fc0c60-6be9-401b-95b4-c66dcb6f2191)
 ![image](https://github.com/user-attachments/assets/a48a19db-e263-4226-8763-281b243b47ac)
 
 #### 📌 메인 (카메라)
