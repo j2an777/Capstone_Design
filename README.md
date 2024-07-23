@@ -24,10 +24,6 @@
 ## ⭐️ 주요 기능
 
 ### 📱 모바일
-- ObjectDetection과 PoseEstimation을 이용하여 사람을 1 기준으로 비율을 수치로 제공합니다.
-
-![KakaoTalk_20240723_114047878](https://github.com/user-attachments/assets/70fc0c60-6be9-401b-95b4-c66dcb6f2191)
-![image](https://github.com/user-attachments/assets/a48a19db-e263-4226-8763-281b243b47ac)
 
 #### 📌 메인 (카메라)
 - 카메라 화면에 격자선 기능 제공
@@ -39,7 +35,8 @@
 #### 📌 실시간 비율 제공
 - 토글 버튼 클릭시 ObjectDetection과 YoloV4 모델의 Pose Estimation을 활용하여 인물의 피사체를 1을 기준으로 비율을 제공합니다.
 
-![image](https://github.com/user-attachments/assets/f4338978-d148-4375-b88f-4ca85cbeb1f0)
+![KakaoTalk_20240723_114047878](https://github.com/user-attachments/assets/70fc0c60-6be9-401b-95b4-c66dcb6f2191)
+![image](https://github.com/user-attachments/assets/a48a19db-e263-4226-8763-281b243b47ac)
 
 #### 📌 게시물 SNS 
 - 이미지와 닉네임 조회
