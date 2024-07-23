@@ -1,7 +1,7 @@
 # 💗 ForShop
 ![MockUp4](https://github.com/j2an777/ForShopPlus/assets/110087099/9d012c4e-e5ec-48e9-b00e-709b3995a205)
 
-**프로젝트 기간** : 2023.09.11 ~ 2023. 12. 14
+**프로젝트 기간** : 2023.03.13 ~ 2023.06.15
 
 🔗 [웹 시연영상 보러가기](http://img.youtube.com/vi/L26RSg6RzxA/0.jpg)
 <br/>
